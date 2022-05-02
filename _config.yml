@@ -7,8 +7,8 @@ description: A blog about technology and stuff related
 
 # if it's an external image, update below for true
 # better with square images
-external-image: false
-picture: assets/images/profile_shayan.jpg
+external-image: true
+picture: assets/images/profile.png
 
 # your site color theme, false to light theme
 dark-theme: true
@@ -19,8 +19,8 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://sergiokopplin.github.io/indigo
-# your url: https://USERNAME.github.io
+#url: https://sergiokopplin.github.io/indigo
+url: https://shmouses.github.io
 
 permalink: /:title/
 
@@ -42,10 +42,10 @@ email: myemail@gmail.com
 
 authors:
   johndoe:
-    name: John Doe
+    name: John 
     bio: A Man who travels the world eating noodles
-    external-image: false
-    picture: assets/images/profile.jpg
+    external-image: true
+    picture: assets/images/profile.png
     twitter: johndoe
   jamesfoster:
     name: James Foster
